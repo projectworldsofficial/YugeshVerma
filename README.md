@@ -38,9 +38,9 @@ In briefly, I'm a Software Engineer, a Student, and a Tech Enthusiast from India
 
 ## GitHub Analytics
 
-<img align="left" width="55%" alt="BhathiyaTK's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=BhathiyaTK&custom_title=Contribution+Stats&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=dracula&disable_animations=true" />
+<img align="left" width="55%" alt="BhathiyaTK's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=projectworldsofficial&custom_title=Contribution+Stats&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=dracula&disable_animations=true" />
 
-<img alt="BhathiyaTK's Top using Programming Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhathiyaTK&layout=compact&theme=dracula&hide_border=true&langs_count=8&hide=scss,less,hack" />
+<img alt="projectworldsofficial's Top using Programming Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhathiyaTK&layout=compact&theme=dracula&hide_border=true&langs_count=8&hide=scss,less,hack" />
 
 ## Achievements
 
