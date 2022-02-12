@@ -2,9 +2,9 @@
 
 ## About Me
 
-In briefly, I'm a Software Engineer, a Student, and a Tech Enthusiast from India 🇰. Find more about me in the below.😊
+In briefly, I'm a Software Engineer, a Student, and a Tech Enthusiast from India. Find more about me in the below.😊
 
-- 🏢 I work as Freelancing and Full Time Youtube ) @ [projectworlds][https://www.youtube.com/channel/UCFMkpvtYjSAPXUPjImQK7bg?sub_confirmation=1] India.
+- 🏢 I work as Freelancing and Full Time Youtube ) @ [projectworlds][yni] India.
 - 🎓 And also, I'm a graduated at 2018  @ [Chhattisgarh Swami Vivekanand Technical University (C.G) India][uni]
 - 💻 As a developer, I'm passionate about PHP, Java, Python, Android, Flutter, Bootstrap, Machine Learning.
 - 📚 I’m currently learning all the technical stuff related to Full Stack developent.
@@ -74,8 +74,9 @@ In briefly, I'm a Software Engineer, a Student, and a Tech Enthusiast from India
 &nbsp;&nbsp;&nbsp;[![Website](https://img.shields.io/website?color=%231877F2&down_message=connect&label=facebook&logo=facebook&logoColor=%23fff&style=for-the-badge&up_message=be%20a%20friend&url=https%3A%2F%2Fwww.facebook.com%2Fbhathiya.tk%2F)][facebook]
 &nbsp;&nbsp;&nbsp;[![Website](https://img.shields.io/website?color=%23E4405F&down_message=follow&label=instagram&logo=instagram&logoColor=%23fff&style=for-the-badge&up_message=follow&url=https%3A%2F%2Fwww.instagram.com%2Fbhathiya.kariyawasam%2F)][instagram]
 
-[work]: https://www.aizenit.com/
-[uni]: https://www.sab.ac.lk/
+[work]: https://projectworlds.in/
+[uni]: https://csvtu.ac.in/ew/
+[yni]: [yni]: https://www.sab.ac.lk/
 [website]: https://bhathiyatk.github.io/
 [instagram]: https://www.instagram.com/bhathiya.kariyawasam/
 [linkedin]: https://www.linkedin.com/in/bhathiyatk/
