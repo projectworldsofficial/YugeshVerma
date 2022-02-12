@@ -76,7 +76,7 @@ In briefly, I'm a Software Engineer, a Student, and a Tech Enthusiast from India
 
 [work]: https://projectworlds.in/
 [uni]: https://csvtu.ac.in/ew/
-[yni]: [yni]: https://www.sab.ac.lk/
+[yni]: https://www.sab.ac.lk/
 [website]: https://bhathiyatk.github.io/
 [instagram]: https://www.instagram.com/bhathiya.kariyawasam/
 [linkedin]: https://www.linkedin.com/in/bhathiyatk/
