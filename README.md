@@ -4,7 +4,7 @@
 
 In briefly, I'm a Software Engineer, a Student, and a Tech Enthusiast from India 🇰. Find more about me in the below.😊
 
-- 🏢 I work as Freelancing and Full Time Youtube ) @ [projectworlds] India.
+- 🏢 I work as Freelancing and Full Time Youtube ) @ [projectworlds][uni] India.
 - 🎓 And also, I'm a graduated at 2018  @ [Chhattisgarh Swami Vivekanand Technical University (C.G) India][uni]
 - 💻 As a developer, I'm passionate about PHP, Java, Python, Android, Flutter, Bootstrap, Machine Learning.
 - 📚 I’m currently learning all the technical stuff related to Full Stack developent.
