@@ -4,7 +4,7 @@
 
 In briefly, I'm a Software Engineer, a Student, and a Tech Enthusiast from India. Find more about me in the below.😊
 
-- 🏢 I work as Freelancing and Full Time Youtube ) @ [projectworlds][yni] India.
+- 🏢 I work as Freelancing and Youtube  @ [projectworlds][yni] India.
 - 🎓 And also, I'm a graduated at 2018  @ [Chhattisgarh Swami Vivekanand Technical University (C.G) India][uni]
 - 💻 As a developer, I'm passionate about PHP, Java, Python, Android, Flutter, Bootstrap, Machine Learning.
 - 📚 I’m currently learning all the technical stuff related to Full Stack developent.
@@ -76,8 +76,8 @@ In briefly, I'm a Software Engineer, a Student, and a Tech Enthusiast from India
 
 [work]: https://projectworlds.in/
 [uni]: https://csvtu.ac.in/ew/
-[yni]: https://www.sab.ac.lk/
-[website]: https://bhathiyatk.github.io/
-[instagram]: https://www.instagram.com/bhathiya.kariyawasam/
-[linkedin]: https://www.linkedin.com/in/bhathiyatk/
-[facebook]: https://www.facebook.com/bhathiya.tk/
+[yni]: https://www.youtube.com/channel/UCFMkpvtYjSAPXUPjImQK7bg/
+[website]: https://projectworlds.in/
+[instagram]: https://www.instagram.com/projectworlds/
+[linkedin]: #
+[facebook]: https://www.facebook.com/projectworlds
